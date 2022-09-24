@@ -16,7 +16,7 @@ variable "description" {
 }
 
 variable "name" {
-  default     = "vnic_network"
+  default     = "default"
   description = "Name for the Policy."
   type        = string
 }
