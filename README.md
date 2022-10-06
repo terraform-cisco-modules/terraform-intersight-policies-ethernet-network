@@ -1,9 +1,14 @@
 <!-- BEGIN_TF_DOCS -->
+[![Tests](https://github.com/terraform-cisco-modules/terraform-intersight-policies-ethernet-network/actions/workflows/terratest.yml/badge.svg)](https://github.com/terraform-cisco-modules/terraform-intersight-policies-ethernet-network/actions/workflows/terratest.yml)
 # Terraform Intersight Policies - Ethernet Network
 Manages Intersight Ethernet Network Policies
 
 Location in GUI:
 `Policies` » `Create Policy` » `Ethernet Network`
+
+## Easy IMM
+
+[*Easy IMM - Comprehensive Example*](https://github.com/terraform-cisco-modules/easy-imm-comprehensive-example) - A comprehensive example for policies, pools, and profiles.
 
 ## Example
 
